@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+		<RootNamespace>System.Threading.Tasks</RootNamespace>
+		<Version>0.0.1</Version>
+		<PackageId>Tgs.Threading.Tasks</PackageId>
+		<Product>Tgs.Threading.Tasks</Product>
+		<Authors>Raypro</Authors>
+		<PackageProjectUrl>https://gitlab.com/rayprosoft/task-utility</PackageProjectUrl>
+		<RepositoryUrl>https://gitlab.com/rayprosoft/task-utility.git</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
+		<PackageTags>tgs threading task</PackageTags>
+		<IsPackable>true</IsPackable>
+	</PropertyGroup>
+
+</Project>
